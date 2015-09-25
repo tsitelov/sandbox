@@ -89,6 +89,8 @@ Some text[^1]
 
 [^1]: Footnote
 
+Footnote using html<sup>[2](#fn2)</sup>
+
 ## Code block
 
 ```java
@@ -104,4 +106,6 @@ public class Test {
 Funny owl
 
 ![Funny owl](funny-owl.jpg "Funny owl")
+
+<b id="fn2">2:</b> Footnote using html
 
